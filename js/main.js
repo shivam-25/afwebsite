@@ -137,7 +137,6 @@ $(document).ready(function() {
             scrollSpeed: 1200,
           });
       }())
- 
 
 
 });

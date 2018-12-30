@@ -21,7 +21,8 @@
  *	Reset Class Css
  *
  *===================*/
-body {
+
+ body {
   line-height: 24px;
   font-size: 14px;
   color: #80d6a3;
@@ -275,7 +276,7 @@ header .navbar {
 #banner .block .buttons {
   margin-top: 40px;
 }
-#banner .block .buttons a:first-child {
+#banner .block .buttons a {
   margin-left: 0;
 }
 #banner .scrolldown {
@@ -947,7 +948,16 @@ footer p {
   margin-top: 15px;
   border-radius: 25px;
 }
+/* image gallery */
 
+.different{
+  text-align: center;
+}
+.thumbnail1{
+  width:280px;
+  height:220px;
+  padding: 2%;
+}
 /* =====================
    Blog Page
    ===================== */
