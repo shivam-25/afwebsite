@@ -13,9 +13,11 @@
     bottom: 12px;
     right: 25px;
   }
+
   #team .team-overlay {
     padding: 10px;
   }
+
 }
 
 
@@ -73,6 +75,13 @@
     bottom: 5px;
     right: 20px;
   }
+  .overlay{
+  padding: 0%;
+}
+.overlay h4{
+  font-size: 0.9em;
+  font-weight: 300;
+}
   #latest-work .block .recent-work-pic ul li .overlay h3 {
     font-size: 14px;
   }

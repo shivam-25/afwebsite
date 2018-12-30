@@ -45,6 +45,9 @@ h4 {
 p {
   margin: 0px;
 }
+.ctr p{
+    text-align: justify;
+}
 h1,h2,h3,h4,h5,h6,p {
   font-family: 'Roboto', sans-serif;
   margin: 0px;
@@ -228,6 +231,7 @@ header .navbar {
   background-size: cover;
   padding: 250px 0;
   position: relative;
+  width: 100%;
 }
 #banner:before {
   position: absolute;
@@ -420,9 +424,18 @@ header .navbar {
 #portfolio .block .recent-work-pic ul li {
   margin-bottom: 30px;
   position: relative;
+
 }
 #portfolio .block .recent-work-pic ul li:hover .overlay {
   opacity: 1;
+}
+.overlay{
+  padding: 2%;
+}
+.overlay h4{
+  font-size: 1.1em;
+  font-weight: 300;
+  text-align: justify;
 }
 #portfolio .block .recent-work-pic ul li:hover .overlay i {
   top: 40%;
