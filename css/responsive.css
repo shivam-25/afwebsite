@@ -129,4 +129,16 @@
     margin-bottom: 20px;
   }
 
+  #team .team-overlay{
+    padding: 0;
+  }
+  #team .team-overlay .icon{
+    margin: 0;
+    padding: 0;
+  }
+   #team .team-overlay p{
+     font-size: 10px;
+     line-height: 20px;
+   }
+
 }
