@@ -1,0 +1,74 @@
+[33mcommit cab072b08d088bf1e89a4bcda9ee2730646569f6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Tue Jan 1 01:40:35 2019 +0530
+
+    Final Deploy
+
+[33mcommit c4bf9b35bb59d74842cca5859e810ad29c322bc7[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Mon Dec 31 14:56:56 2018 +0530
+
+    Deploy
+
+[33mcommit d0d7854c3155883c8b7b526fcbafbc0a645cf6b2[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Mon Dec 31 13:34:29 2018 +0530
+
+    Ready to deploy
+
+[33mcommit 4ac8ea65b9693fd1aef957b0686f5c8429f62fac[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Mon Dec 31 04:20:38 2018 +0530
+
+    Final Commit
+
+[33mcommit 3646a30e9494cefedd0cb6f530a2bf238b34324b[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Mon Dec 31 03:21:40 2018 +0530
+
+    edited testimonial, team and achievement part
+
+[33mcommit bb342a3d74d58445f0368a0831319994cb33e0c9[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Sun Dec 30 16:15:13 2018 +0530
+
+    added github links
+
+[33mcommit 7479f06799e372d3b1863ba87331428f5c247fcb[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Sun Dec 30 15:57:56 2018 +0530
+
+    Mobile Compatible
+
+[33mcommit 69879ba04b51bc4f581e62cd76fba65ddaaaca22[m
+Merge: ff029e6 a4d3adb
+Author: shivam-25 <39740036+shivam-25@users.noreply.github.com>
+Date:   Sun Dec 30 14:02:38 2018 +0530
+
+    Merge pull request #1 from tango025/master
+    
+    responsiveness tweaked,added a readme file
+
+[33mcommit a4d3adbce9aaa70bede22b83cacda8f6a6fe84a3[m
+Author: Gaurav Gupta <33049500+tango025@users.noreply.github.com>
+Date:   Sun Dec 30 03:51:22 2018 +0530
+
+    Create README.md
+
+[33mcommit c254d496eb1a3e8ad7fda493b6a37a9776ab3271[m
+Author: tango025 <gaurav2550.gg@gmail.com>
+Date:   Sun Dec 30 03:49:42 2018 +0530
+
+    Responsiveness tweaked
+
+[33mcommit ff029e62659afc024b8b53f6fcd252b8b2911aed[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Sat Dec 29 04:22:11 2018 +0530
+
+    Second Commit
+
+[33mcommit a147a0be47a615a59ede875ca131fde3a915f59e[m
+Author: Shivam Dixit <shivamdixit7077@gmail.com>
+Date:   Sat Dec 29 03:08:00 2018 +0530
+
+    Site ready for deployment.
