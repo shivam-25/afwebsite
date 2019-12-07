@@ -948,6 +948,60 @@ footer p {
   margin-top: 15px;
   border-radius: 25px;
 }
+
+#blog2 {
+  padding:100px 0;
+  background: #80d6a3;
+}
+
+#blog-post2 .block {
+  background: #fff;
+  margin:0 5px;
+}
+
+#blog-post2  .content {
+  padding:30px 25px; 
+  text-align: center;
+}
+#blog-post2 .content h4 {
+  text-transform: capitalize;
+  position: relative;
+  margin: 20px 0 10px;
+  padding: 10px 0;
+}
+#blog-post2 .content h4 a {
+  color: #333;
+}
+#blog-post2 .content h4 a:hover {
+ color: #80d6a3; 
+}
+#blog-post2 .content h4::before {
+    content: '';
+    position: absolute;
+    left: 45%;
+    top: -6px;
+    width: 30px;
+    height: 2px;
+    background-color: #80d6a3;
+    -webkit-transition: .3s all;
+    -o-transition: .3s all;
+    transition: .3s all;
+}
+#blog-post2 .content small {
+  color: #999;
+}
+#blog-post2 .content p {
+  margin-top: 10px;
+  color: #777;
+}
+#blog-post2 .content .btn-read {
+  background: #80d6a3;
+  color: #fff;
+  padding:10px 20px;
+  font-size: 13px;
+  margin-top: 15px;
+  border-radius: 25px;
+}
 /* image gallery */
 
 .different{
